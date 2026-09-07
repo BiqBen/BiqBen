@@ -9,6 +9,7 @@ with a focus on software development and computer vision.
 - Experience with Computer Vision, image processing and pose estimation
 - Currently looking for an entry-level software engineering position
 - Bachelor of Engineering in Computer Engineering
+- I enjoy staying active through strength training, running, and skiing
 
 ## Featured Projects
 
